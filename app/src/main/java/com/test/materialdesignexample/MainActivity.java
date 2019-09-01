@@ -23,7 +23,9 @@ public class MainActivity extends AppCompatActivity {
 
         getSupportActionBar().setTitle("Welcome !");
         toolbar.setSubtitle("Folks");
-        toolbar.setLogo(R.drawable.ic_launcher_background);
-        toolbar.setNavigationIcon(R.drawable.ic_launcher_background);
+
+
+//        toolbar.setLogo(R.drawable.ic_launcher_background);
+//        toolbar.setNavigationIcon(R.drawable.ic_launcher_background);
     }
 }
