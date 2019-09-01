@@ -4,12 +4,6 @@
     <style name="MaterialTheme" parent="ParentMaterialTheme">
 
     </style>
-    <style name="ParentMaterialTheme" parent="@android:style/Theme.Material.Light.NoActionBar">
-        <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
-    </style>
 </resources>
 
 
