@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
                     case R.id.edit:
                         msg = getString(R.string.edit);
                         break;
- 
+
                     case R.id.settings:
                         msg = getString(R.string.settings);
                         break;
